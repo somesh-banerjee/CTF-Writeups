@@ -1,3 +1,5 @@
+[**Problem**](https://ctflearn.com/challenge/96)
+
 You will be provided with jpg file
 
 As the challenge belongs to Forensics, we will start with exploring the strings in it by
