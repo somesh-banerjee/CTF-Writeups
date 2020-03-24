@@ -60,7 +60,7 @@ flag - ``` riftCTF{Birchmount_Road} ```
 
 We have been provided with a satellite image of a place where the suspect is present.
 
-![](images/osint_8.png)
+![](images/osint_8.jpg)
 
 It is also said Google Car was present at the same time. That means if we inspect the area in 3D mode in Google maps we can get the person. After finding the place in google maps and searching in 3D mode we found him.
 
