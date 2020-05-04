@@ -5,60 +5,7 @@ The first level is very basic and just include inserting ```<script>alert()</scr
 Let's see the source code.
 
 level.py
-```level.py
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
+```
 page_header = """
 <!doctype html>
 <html>
@@ -111,7 +58,8 @@ class MainPage(webapp.RequestHandler):
      
     return
  
-application = webapp.WSGIApplication([ ('.*', MainPage), ], debug=False)```
+application = webapp.WSGIApplication([ ('.*', MainPage), ], debug=False)
+```
 
 We can see that the message getting printed is directly taken from the input without any change i.e. blindly trusting user's 
 input which results in manipulation the code through XSS.
