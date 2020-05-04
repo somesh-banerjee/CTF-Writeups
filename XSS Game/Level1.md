@@ -1,4 +1,4 @@
-# Level 1 Hello, World of XSS
+# [Level 1 Hello, World of XSS](https://xss-game.appspot.com/level1)
 
 The first level is very basic and just include inserting ```<script>alert()</script>```
 
