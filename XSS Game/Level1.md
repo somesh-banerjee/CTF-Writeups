@@ -4,7 +4,7 @@ The first level is very basic and just include inserting ```<script>alert()</scr
 
 Let's see the source code.
 
-level.py
+**level.py**
 ```
 page_header = """
 <!doctype html>
