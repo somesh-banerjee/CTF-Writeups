@@ -3,11 +3,14 @@
 We have to find the number which satisfies the following conditions:
 - divisible by 123457
 - satisfy [luhn algorithm](https://www.youtube.com/watch?v=PNXXqzU4YnM)
-- similar to 543210******1234
+- similar to ```543210******1234```
 
-Just run a loop from 1 to 999999 in place of ****** and check for which number it satisfies all three conditions.
+Just run a loop from 1 to 999999 in place of ```******``` and check for which number it satisfies all three conditions.
 
-Try to do it by yourself
+Try to do it by yourself before seeing my code!
+
+
+
 
 My code:
 ```
