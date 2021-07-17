@@ -1,3 +1,6 @@
+# BabyRE
+Rev, 10 Points, Easy
+
 We are provided with a 'Baby RE.zip' file. Unzip it using 7z and password 'hackthebox'.
 
 We got a executable file.
